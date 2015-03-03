@@ -1,1 +1,1 @@
-my first line
+my first line"fixing bug #1234" 
