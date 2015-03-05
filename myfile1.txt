@@ -3,4 +3,5 @@ my first line
 2nd line
 "feature1" 
 "feature 2 code" 
-"feature2 changes"  
+"feature2 changes" 
+add code for feature 3 now 
