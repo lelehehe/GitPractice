@@ -1,3 +1,6 @@
 my first line
 "fixing bug #1234" 
-2nd line"feature1" 
+2nd line
+"feature1" 
+"feature 2 code" 
+"feature2 changes"  
