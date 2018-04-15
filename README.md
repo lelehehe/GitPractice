@@ -52,8 +52,7 @@ Help:
 `git help`
 
 
-General
------------
+## General
 
 Initialize Git:
 `git init`
